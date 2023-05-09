@@ -1,0 +1,16 @@
+{
+  "@@locale": "ar",
+  "appTitle": "قائمة المهام",
+
+  "searchTodos": "البحث عن المهام",
+
+  "noTodosFound": "لم يتم العثور على أي مهام",
+  "personalInformation": "المعلومات الشخصية",
+  "name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "phone": "الهاتف",
+  "website": "الموقع",
+  "selectLanguage": "اختر اللغة",
+  "view_todo": "عرض المهمة"
+
+}

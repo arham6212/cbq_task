@@ -1,0 +1,23 @@
+{
+  "appTitle": "To-Do List",
+  "@appTitle": {
+    "description": "The title of the to-do list app."
+  },
+  "searchTodos": "Search To-Dos",
+  "@searchTodos": {
+    "description": "The hint text for the search text field."
+  },
+  "noTodosFound": "No To-Dos found.",
+  "@noTodosFound": {
+    "description": "The message displayed when no to-dos are found."
+  },
+
+  "personalInformation": "Personal Information",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "website": "Website",
+  "selectLanguage": "Select Language",
+  "view_todo": "View Todo"
+
+}
